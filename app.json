@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "name": "Giftshop",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "37163aa1-3d5b-42ea-b4b2-1b8321510dd5"
+      }
+    },
+    "android": {
+      "package": "com.sanjay_kms.Giftshop"
+    }
+  }
+}
